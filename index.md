@@ -3,9 +3,7 @@
 NATURAL LANGUAGE PROCESSING, MACHINE LEARNING, DEEP LEARNING, LOGIC.
 
 
-### Bio
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a postgraduate student studying Machine Learning & Data Science at [University College London](http://www.cs.ucl.ac.uk/home/), completeting my dissertation under [Prof. Sebastian Riedel](http://www.riedelcastro.org/) and [Dr. Pasquale Minervini](http://neuralnoise.com/) in the [Machine Reading](http://mr.cs.ucl.ac.uk/) group. 
 
 ```markdown
 Syntax highlighted code block
