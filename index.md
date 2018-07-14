@@ -21,11 +21,6 @@ Algebraic Decomposition in Maple](https://arxiv.org/pdf/1805.10136.pdf)
 - 2018: TOWARDS INCREMENTAL CYLINDRICAL ALGEBRAIC DECOMPOSITION IN MAPLE, FEDERATED LOGIC CONFERENCE 2018, OXFORD UNIVERSITY, UK.
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ### Contact
 
 Contact me at mc_rivers at icloud dot com. 
